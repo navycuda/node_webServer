@@ -1,4 +1,6 @@
 /* Require */
+const request = require(`request`);
+
 /* Tcp:Http */
 /* Arguments & Properties */
 /* Export Functions */
